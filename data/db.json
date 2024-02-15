@@ -1,0 +1,31 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Cream Trainer Nike",
+            "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3e8455ad-c00c-4996-a85a-b5c4d38c6ae2/v2k-run-shoes-ZzTJRD.png",
+            "price": 200,
+            "rate": 4.6,
+            "description":
+              "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro eaque hic et maxime illum distinctio nesciunt rerum. Quisquam, placeat repellendus. "
+          },
+          {
+            "id": 2,
+            "title": "Black Trainer Nike",
+            "img": "https://www.footasylum.com/images/products/productlistings/4084770.jpg",
+            "price": 250,
+            "rate": 4.8,
+            "description":
+              "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro eaque hic et maxime illum distinctio nesciunt rerum. Quisquam, placeat repellendus. "
+          },
+          {
+            "id": 3,
+            "title": "White Trainer Nike",
+            "img": "https://www.soletrader.co.uk/cdn-cgi/image/width=700,height=700,fit=contain/assets/6e/85/6e85712a-8402-4c89-a032-d359d8a34b6c/CLD5UDWH.jpg",
+            "price": 230,
+            "rate": 4.5,
+            "description":
+              "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro eaque hic et maxime illum distinctio nesciunt rerum. Quisquam, placeat repellendus. "
+          }
+    ]
+}
